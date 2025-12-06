@@ -103,7 +103,7 @@ export default function LoginPage() {
 
           <div className="mt-6 text-center text-sm text-gray-600">
             <p>Demo: Use any email/password</p>
-            <p className="mt-1">Editor: email with "editor" in it</p>
+            <p className="mt-1">Editor: email with &quot;editor&quot; in it</p>
           </div>
         </div>
       </div>

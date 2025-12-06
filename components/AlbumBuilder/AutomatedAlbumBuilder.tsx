@@ -266,7 +266,7 @@ export default function AutomatedAlbumBuilder({
                 <FiImage className="text-6xl mx-auto mb-4" />
                 <p className="text-lg mb-2">No album generated yet</p>
                 <p className="text-sm">
-                  Select images and click "Generate Album" (recommended: {pageConfig.images} images)
+                  Select images and click &quot;Generate Album&quot; (recommended: {pageConfig.images} images)
                 </p>
               </div>
             </div>
